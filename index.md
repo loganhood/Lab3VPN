@@ -72,9 +72,9 @@ docker-compose logs wireguard
 ~~~
 3. Scan the QR with the app to setup the VPN.
 
-![IP info before VPN](img/mobile_before_vpn.png "IP info before VPN.")
+![IP info before VPN](img/mobile_before_vpn.PNG "IP info before VPN.")
 
-![IP info after VPN](img/mobile_after_vpn.png "IP info after VPN.")
+![IP info after VPN](img/mobile_after_vpn.PNG "IP info after VPN.")
 
 ![Mobile tunnel is active.](img/mobile_tunnel_active.jpg "Mobile tunnel is active.")
 
