@@ -88,3 +88,5 @@ cd ~/wireguard/config/{username}
 
 ![VPN tunnel is active on laptop.](img/laptop_vpn.png "VPN tunnel being active on a laptop.")
 
+## References
+- https://thematrix.dev/setup-wireguard-vpn-server-with-docker/
